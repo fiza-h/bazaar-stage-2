@@ -26,13 +26,92 @@ pool.connect((err, client, release) => {
 app.use(cors());
 app.use(express.json());
 
-app.get("/product", async (req, res) => {
+// Get all products with optional filters
+app.get("/products", async (req, res) => {
     try {
-        const result = await pool.query("SELECT * FROM public.product");
+        const { store_id, search, start_date, end_date } = req.query;
+        
+        let query = "SELECT * FROM public.product";
+        const params = [];
+        let paramCount = 1;
+        
+        // Build WHERE clause based on filters
+        if (store_id || search || (start_date && end_date)) {
+            query += " WHERE";
+            
+            // Store filter
+            if (store_id) {
+                query += ` store_id = $${paramCount}`;
+                params.push(store_id);
+                paramCount++;
+            }
+            
+            // Search filter (product name or category)
+            if (search) {
+                if (params.length > 0) query += " AND";
+                query += ` (name ILIKE $${paramCount} OR category ILIKE $${paramCount})`;
+                params.push(`%${search}%`);
+                paramCount++;
+            }
+            
+            // Date range filter
+            if (start_date && end_date) {
+                if (params.length > 0) query += " AND";
+                query += ` created_at BETWEEN $${paramCount} AND $${paramCount + 1}`;
+                params.push(start_date, end_date);
+                paramCount += 2;
+            }
+        }
+        
+        console.log("Query:", query, "Params:", params);
+        const result = await pool.query(query, params);
         res.json(result.rows);
     } catch (err) {
-        console.error("Error querying product:", err);  // Log the complete error to the console
-        res.status(500).json({ error: err.toString() });  // Send the complete error as a response
+        console.error("Error querying products:", err);
+        res.status(500).json({ error: err.toString() });
+    }
+});
+
+// Get store locations
+app.get("/store_locations", async (req, res) => {
+    try {
+        const result = await pool.query("SELECT id, name FROM stores");
+        res.json(result.rows);
+    } catch (err) {
+        console.error("Error fetching store locations:", err);
+        res.status(500).json({ error: err.toString() });
+    }
+});
+
+// Get store ID by name
+app.get("/store_id/:name", async (req, res) => {
+    try {
+        const { name } = req.params;
+        const result = await pool.query("SELECT id as store_id FROM stores WHERE name = $1", [name]);
+        
+        if (result.rows.length === 0) {
+            return res.status(404).json({ message: "Store not found" });
+        }
+        
+        res.json(result.rows[0]);
+    } catch (err) {
+        console.error("Error fetching store ID:", err);
+        res.status(500).json({ error: err.toString() });
+    }
+});
+
+// Get products by store ID
+app.get("/store/:storeId/products", async (req, res) => {
+    try {
+        const { storeId } = req.params;
+        const result = await pool.query(
+            "SELECT p.* FROM product p JOIN store_inventory si ON p.id = si.product_id WHERE si.store_id = $1",
+            [storeId]
+        );
+        res.json(result.rows);
+    } catch (err) {
+        console.error("Error fetching store products:", err);
+        res.status(500).json({ error: err.toString() });
     }
 });
 

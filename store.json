@@ -1,0 +1,2502 @@
+[
+    {
+        "store_id": 1,
+        "manager_name": "Dewey Adolfson",
+        "location": "Apt 1422"
+    },
+    {
+        "store_id": 2,
+        "manager_name": "Manda Kobel",
+        "location": "Apt 1237"
+    },
+    {
+        "store_id": 3,
+        "manager_name": "Horacio Roydon",
+        "location": "Apt 800"
+    },
+    {
+        "store_id": 4,
+        "manager_name": "Iolande Dutt",
+        "location": "PO Box 22877"
+    },
+    {
+        "store_id": 5,
+        "manager_name": "Luz Quenell",
+        "location": "Room 110"
+    },
+    {
+        "store_id": 6,
+        "manager_name": "Linn Wenzel",
+        "location": "Suite 62"
+    },
+    {
+        "store_id": 7,
+        "manager_name": "Coralie Manvell",
+        "location": "Suite 26"
+    },
+    {
+        "store_id": 8,
+        "manager_name": "Gary Hollow",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 9,
+        "manager_name": "Gnni Van Halle",
+        "location": "20th Floor"
+    },
+    {
+        "store_id": 10,
+        "manager_name": "Randi Groucutt",
+        "location": "Apt 1358"
+    },
+    {
+        "store_id": 11,
+        "manager_name": "Johanna Thinn",
+        "location": "Room 343"
+    },
+    {
+        "store_id": 12,
+        "manager_name": "Roshelle Hugueville",
+        "location": "Apt 1146"
+    },
+    {
+        "store_id": 13,
+        "manager_name": "Anni McFadzean",
+        "location": "Suite 58"
+    },
+    {
+        "store_id": 14,
+        "manager_name": "Aeriel Somerbell",
+        "location": "PO Box 59563"
+    },
+    {
+        "store_id": 15,
+        "manager_name": "Rogerio Boykett",
+        "location": "Room 722"
+    },
+    {
+        "store_id": 16,
+        "manager_name": "Myrtle Hamblett",
+        "location": "PO Box 72648"
+    },
+    {
+        "store_id": 17,
+        "manager_name": "Say Moyle",
+        "location": "13th Floor"
+    },
+    {
+        "store_id": 18,
+        "manager_name": "Barbaraanne Flucks",
+        "location": "Suite 77"
+    },
+    {
+        "store_id": 19,
+        "manager_name": "Karole Necrews",
+        "location": "1st Floor"
+    },
+    {
+        "store_id": 20,
+        "manager_name": "Margery Domoney",
+        "location": "PO Box 85689"
+    },
+    {
+        "store_id": 21,
+        "manager_name": "Ransell Shillabeer",
+        "location": "Suite 83"
+    },
+    {
+        "store_id": 22,
+        "manager_name": "Broddy Mapledoore",
+        "location": "PO Box 29521"
+    },
+    {
+        "store_id": 23,
+        "manager_name": "Asia Gavaran",
+        "location": "6th Floor"
+    },
+    {
+        "store_id": 24,
+        "manager_name": "Matty Guido",
+        "location": "2nd Floor"
+    },
+    {
+        "store_id": 25,
+        "manager_name": "Benni Parmer",
+        "location": "Room 1743"
+    },
+    {
+        "store_id": 26,
+        "manager_name": "Bertie Shilladay",
+        "location": "Room 994"
+    },
+    {
+        "store_id": 27,
+        "manager_name": "Fayina Akram",
+        "location": "Room 1159"
+    },
+    {
+        "store_id": 28,
+        "manager_name": "Allin Traise",
+        "location": "PO Box 98672"
+    },
+    {
+        "store_id": 29,
+        "manager_name": "Clark Kitcher",
+        "location": "PO Box 92141"
+    },
+    {
+        "store_id": 30,
+        "manager_name": "Melanie Curman",
+        "location": "PO Box 31827"
+    },
+    {
+        "store_id": 31,
+        "manager_name": "Nicolea Hryncewicz",
+        "location": "Suite 67"
+    },
+    {
+        "store_id": 32,
+        "manager_name": "James Nerger",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 33,
+        "manager_name": "Jan Wandrey",
+        "location": "Apt 670"
+    },
+    {
+        "store_id": 34,
+        "manager_name": "Allina Wingfield",
+        "location": "Room 1074"
+    },
+    {
+        "store_id": 35,
+        "manager_name": "Zared Bidgod",
+        "location": "Room 1604"
+    },
+    {
+        "store_id": 36,
+        "manager_name": "Damaris Varty",
+        "location": "Room 589"
+    },
+    {
+        "store_id": 37,
+        "manager_name": "Noe Veltmann",
+        "location": "Suite 98"
+    },
+    {
+        "store_id": 38,
+        "manager_name": "Jori Ivashin",
+        "location": "Suite 35"
+    },
+    {
+        "store_id": 39,
+        "manager_name": "Darlleen Meyrick",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 40,
+        "manager_name": "Farand Kleinhaut",
+        "location": "Apt 1642"
+    },
+    {
+        "store_id": 41,
+        "manager_name": "Reinhard Sebborn",
+        "location": "Room 317"
+    },
+    {
+        "store_id": 42,
+        "manager_name": "Debora Di Angelo",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 43,
+        "manager_name": "Ron Bitterton",
+        "location": "PO Box 18436"
+    },
+    {
+        "store_id": 44,
+        "manager_name": "Linette Croughan",
+        "location": "Suite 90"
+    },
+    {
+        "store_id": 45,
+        "manager_name": "Steffie De Miranda",
+        "location": "12th Floor"
+    },
+    {
+        "store_id": 46,
+        "manager_name": "Prent Kment",
+        "location": "Apt 1747"
+    },
+    {
+        "store_id": 47,
+        "manager_name": "Jessalyn Brokenshaw",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 48,
+        "manager_name": "Vania Yven",
+        "location": "Apt 1186"
+    },
+    {
+        "store_id": 49,
+        "manager_name": "Gare Bawdon",
+        "location": "Suite 57"
+    },
+    {
+        "store_id": 50,
+        "manager_name": "Rosemaria Reary",
+        "location": "Room 286"
+    },
+    {
+        "store_id": 51,
+        "manager_name": "Denny Slatcher",
+        "location": "Apt 739"
+    },
+    {
+        "store_id": 52,
+        "manager_name": "Vallie Bufton",
+        "location": "Apt 24"
+    },
+    {
+        "store_id": 53,
+        "manager_name": "Nappie Stean",
+        "location": "Suite 1"
+    },
+    {
+        "store_id": 54,
+        "manager_name": "Gwenore Crosser",
+        "location": "Apt 261"
+    },
+    {
+        "store_id": 55,
+        "manager_name": "Nannie Wonfar",
+        "location": "Suite 74"
+    },
+    {
+        "store_id": 56,
+        "manager_name": "Ardella Lovemore",
+        "location": "Suite 2"
+    },
+    {
+        "store_id": 57,
+        "manager_name": "Marco Ginglell",
+        "location": "Room 1741"
+    },
+    {
+        "store_id": 58,
+        "manager_name": "Gallagher Stennine",
+        "location": "PO Box 27130"
+    },
+    {
+        "store_id": 59,
+        "manager_name": "Gabe Manzell",
+        "location": "Room 100"
+    },
+    {
+        "store_id": 60,
+        "manager_name": "Romonda Verrick",
+        "location": "Suite 97"
+    },
+    {
+        "store_id": 61,
+        "manager_name": "Christoper Seed",
+        "location": "PO Box 41729"
+    },
+    {
+        "store_id": 62,
+        "manager_name": "Isabelita Chesshyre",
+        "location": "Room 1123"
+    },
+    {
+        "store_id": 63,
+        "manager_name": "Den Gauge",
+        "location": "Room 678"
+    },
+    {
+        "store_id": 64,
+        "manager_name": "Abigael Redolfi",
+        "location": "Suite 40"
+    },
+    {
+        "store_id": 65,
+        "manager_name": "Tilly Binns",
+        "location": "20th Floor"
+    },
+    {
+        "store_id": 66,
+        "manager_name": "Phyllys Bartels",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 67,
+        "manager_name": "Violante Swalwell",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 68,
+        "manager_name": "Humfrey Saward",
+        "location": "7th Floor"
+    },
+    {
+        "store_id": 69,
+        "manager_name": "Henriette Bosma",
+        "location": "PO Box 52561"
+    },
+    {
+        "store_id": 70,
+        "manager_name": "Donny Heineken",
+        "location": "Apt 1887"
+    },
+    {
+        "store_id": 71,
+        "manager_name": "Harry Frowde",
+        "location": "Room 1221"
+    },
+    {
+        "store_id": 72,
+        "manager_name": "Daryn Epdell",
+        "location": "Apt 938"
+    },
+    {
+        "store_id": 73,
+        "manager_name": "Meggie Goulding",
+        "location": "Apt 1994"
+    },
+    {
+        "store_id": 74,
+        "manager_name": "Dwayne Alessandone",
+        "location": "Room 1863"
+    },
+    {
+        "store_id": 75,
+        "manager_name": "Glenna Brozsset",
+        "location": "Suite 30"
+    },
+    {
+        "store_id": 76,
+        "manager_name": "Hendrik Standingford",
+        "location": "Suite 81"
+    },
+    {
+        "store_id": 77,
+        "manager_name": "Gerhardt Eschalotte",
+        "location": "Apt 466"
+    },
+    {
+        "store_id": 78,
+        "manager_name": "Malchy Josephov",
+        "location": "Room 1706"
+    },
+    {
+        "store_id": 79,
+        "manager_name": "Dasya Demeter",
+        "location": "Room 1563"
+    },
+    {
+        "store_id": 80,
+        "manager_name": "Alexei Findley",
+        "location": "Apt 1827"
+    },
+    {
+        "store_id": 81,
+        "manager_name": "Ermengarde O'Moylane",
+        "location": "Suite 9"
+    },
+    {
+        "store_id": 82,
+        "manager_name": "Armand Loram",
+        "location": "PO Box 34212"
+    },
+    {
+        "store_id": 83,
+        "manager_name": "Berkie Medhurst",
+        "location": "8th Floor"
+    },
+    {
+        "store_id": 84,
+        "manager_name": "Allie Beesley",
+        "location": "Suite 15"
+    },
+    {
+        "store_id": 85,
+        "manager_name": "Emmery Delve",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 86,
+        "manager_name": "Hermon Hatterslay",
+        "location": "Room 1541"
+    },
+    {
+        "store_id": 87,
+        "manager_name": "Evangelia Holdron",
+        "location": "13th Floor"
+    },
+    {
+        "store_id": 88,
+        "manager_name": "Neille Rene",
+        "location": "Room 1977"
+    },
+    {
+        "store_id": 89,
+        "manager_name": "Olive Nield",
+        "location": "PO Box 21859"
+    },
+    {
+        "store_id": 90,
+        "manager_name": "Galven Simanek",
+        "location": "Suite 50"
+    },
+    {
+        "store_id": 91,
+        "manager_name": "Luise Lefridge",
+        "location": "Suite 55"
+    },
+    {
+        "store_id": 92,
+        "manager_name": "Maureene Plunkett",
+        "location": "Room 807"
+    },
+    {
+        "store_id": 93,
+        "manager_name": "Brittni Millea",
+        "location": "PO Box 61676"
+    },
+    {
+        "store_id": 94,
+        "manager_name": "Abdul Sealeaf",
+        "location": "Room 732"
+    },
+    {
+        "store_id": 95,
+        "manager_name": "Loreen Davidzon",
+        "location": "Room 657"
+    },
+    {
+        "store_id": 96,
+        "manager_name": "Curtis Greensitt",
+        "location": "Apt 990"
+    },
+    {
+        "store_id": 97,
+        "manager_name": "Rowena Ernshaw",
+        "location": "Suite 50"
+    },
+    {
+        "store_id": 98,
+        "manager_name": "Tamarah Selburn",
+        "location": "Apt 1362"
+    },
+    {
+        "store_id": 99,
+        "manager_name": "Aubree Kock",
+        "location": "PO Box 90614"
+    },
+    {
+        "store_id": 100,
+        "manager_name": "Ermin Harriagn",
+        "location": "Apt 1563"
+    },
+    {
+        "store_id": 101,
+        "manager_name": "Penni Beminster",
+        "location": "Room 1262"
+    },
+    {
+        "store_id": 102,
+        "manager_name": "Gunner Antat",
+        "location": "Suite 87"
+    },
+    {
+        "store_id": 103,
+        "manager_name": "Alastair Bompass",
+        "location": "Suite 98"
+    },
+    {
+        "store_id": 104,
+        "manager_name": "Symon Knatt",
+        "location": "Apt 808"
+    },
+    {
+        "store_id": 105,
+        "manager_name": "Gweneth Lockhurst",
+        "location": "Apt 301"
+    },
+    {
+        "store_id": 106,
+        "manager_name": "Ab Yerbury",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 107,
+        "manager_name": "Batholomew Armitage",
+        "location": "Apt 1789"
+    },
+    {
+        "store_id": 108,
+        "manager_name": "Saudra Turfitt",
+        "location": "Suite 18"
+    },
+    {
+        "store_id": 109,
+        "manager_name": "Jarvis Rooper",
+        "location": "Room 1959"
+    },
+    {
+        "store_id": 110,
+        "manager_name": "Persis Hendrichs",
+        "location": "Room 1459"
+    },
+    {
+        "store_id": 111,
+        "manager_name": "Christiana Syplus",
+        "location": "Suite 5"
+    },
+    {
+        "store_id": 112,
+        "manager_name": "Alex Maletratt",
+        "location": "PO Box 2343"
+    },
+    {
+        "store_id": 113,
+        "manager_name": "Putnem Cockrell",
+        "location": "Suite 59"
+    },
+    {
+        "store_id": 114,
+        "manager_name": "Carmine Wanley",
+        "location": "PO Box 42463"
+    },
+    {
+        "store_id": 115,
+        "manager_name": "Merell Darko",
+        "location": "PO Box 75196"
+    },
+    {
+        "store_id": 116,
+        "manager_name": "Sarita Elvey",
+        "location": "Room 858"
+    },
+    {
+        "store_id": 117,
+        "manager_name": "Betty Poel",
+        "location": "PO Box 74276"
+    },
+    {
+        "store_id": 118,
+        "manager_name": "Rob Caurah",
+        "location": "Apt 736"
+    },
+    {
+        "store_id": 119,
+        "manager_name": "Linnet Bloore",
+        "location": "Suite 69"
+    },
+    {
+        "store_id": 120,
+        "manager_name": "Andres Stroulger",
+        "location": "18th Floor"
+    },
+    {
+        "store_id": 121,
+        "manager_name": "Rockie Ferreo",
+        "location": "PO Box 48548"
+    },
+    {
+        "store_id": 122,
+        "manager_name": "Rozamond Wheatley",
+        "location": "PO Box 74756"
+    },
+    {
+        "store_id": 123,
+        "manager_name": "Ebony MacComiskey",
+        "location": "Suite 77"
+    },
+    {
+        "store_id": 124,
+        "manager_name": "Whit Weldrick",
+        "location": "Apt 1481"
+    },
+    {
+        "store_id": 125,
+        "manager_name": "Vikki Merriton",
+        "location": "PO Box 44737"
+    },
+    {
+        "store_id": 126,
+        "manager_name": "Lynnell Senussi",
+        "location": "Room 1534"
+    },
+    {
+        "store_id": 127,
+        "manager_name": "Kissie Glanester",
+        "location": "Apt 1463"
+    },
+    {
+        "store_id": 128,
+        "manager_name": "Ellerey Easun",
+        "location": "PO Box 94222"
+    },
+    {
+        "store_id": 129,
+        "manager_name": "Grace Lascell",
+        "location": "Apt 1347"
+    },
+    {
+        "store_id": 130,
+        "manager_name": "Thatcher Juckes",
+        "location": "Room 1655"
+    },
+    {
+        "store_id": 131,
+        "manager_name": "Mariya Rhoades",
+        "location": "Apt 1054"
+    },
+    {
+        "store_id": 132,
+        "manager_name": "Nissa Anyon",
+        "location": "Apt 811"
+    },
+    {
+        "store_id": 133,
+        "manager_name": "Goober Bartul",
+        "location": "Suite 63"
+    },
+    {
+        "store_id": 134,
+        "manager_name": "Annice Fechnie",
+        "location": "Suite 26"
+    },
+    {
+        "store_id": 135,
+        "manager_name": "Edi Jennrich",
+        "location": "Room 1291"
+    },
+    {
+        "store_id": 136,
+        "manager_name": "Amby Piperley",
+        "location": "PO Box 59497"
+    },
+    {
+        "store_id": 137,
+        "manager_name": "Kiele Barca",
+        "location": "Room 1526"
+    },
+    {
+        "store_id": 138,
+        "manager_name": "Maribeth Armal",
+        "location": "Apt 1297"
+    },
+    {
+        "store_id": 139,
+        "manager_name": "Rees Harnett",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 140,
+        "manager_name": "Moise Hek",
+        "location": "PO Box 10474"
+    },
+    {
+        "store_id": 141,
+        "manager_name": "Haleigh Nollet",
+        "location": "Apt 1565"
+    },
+    {
+        "store_id": 142,
+        "manager_name": "Jessee Yaknov",
+        "location": "Suite 95"
+    },
+    {
+        "store_id": 143,
+        "manager_name": "Millie Janisson",
+        "location": "Apt 312"
+    },
+    {
+        "store_id": 144,
+        "manager_name": "Cinda Alexandersson",
+        "location": "Suite 43"
+    },
+    {
+        "store_id": 145,
+        "manager_name": "Berri Greenrde",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 146,
+        "manager_name": "Kerr Mostin",
+        "location": "Suite 76"
+    },
+    {
+        "store_id": 147,
+        "manager_name": "Clarey Klimas",
+        "location": "Room 1307"
+    },
+    {
+        "store_id": 148,
+        "manager_name": "Delphinia Ridder",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 149,
+        "manager_name": "Dulci Edmonds",
+        "location": "PO Box 4561"
+    },
+    {
+        "store_id": 150,
+        "manager_name": "Greg Earnshaw",
+        "location": "6th Floor"
+    },
+    {
+        "store_id": 151,
+        "manager_name": "Pablo Lindenbluth",
+        "location": "Room 394"
+    },
+    {
+        "store_id": 152,
+        "manager_name": "Stinky Jurgensen",
+        "location": "PO Box 10666"
+    },
+    {
+        "store_id": 153,
+        "manager_name": "Brandtr Risby",
+        "location": "Suite 1"
+    },
+    {
+        "store_id": 154,
+        "manager_name": "Vassili Nansom",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 155,
+        "manager_name": "Ernaline Wiffield",
+        "location": "Room 196"
+    },
+    {
+        "store_id": 156,
+        "manager_name": "Udell Aronoff",
+        "location": "Suite 54"
+    },
+    {
+        "store_id": 157,
+        "manager_name": "Sinclare Sappell",
+        "location": "Apt 1919"
+    },
+    {
+        "store_id": 158,
+        "manager_name": "Ashlin Mathy",
+        "location": "Suite 45"
+    },
+    {
+        "store_id": 159,
+        "manager_name": "Jerad Whall",
+        "location": "Room 1626"
+    },
+    {
+        "store_id": 160,
+        "manager_name": "Daniel Strutley",
+        "location": "PO Box 90691"
+    },
+    {
+        "store_id": 161,
+        "manager_name": "Aldo Jumeau",
+        "location": "16th Floor"
+    },
+    {
+        "store_id": 162,
+        "manager_name": "Oran Rickardes",
+        "location": "Apt 1325"
+    },
+    {
+        "store_id": 163,
+        "manager_name": "Malorie Fullwood",
+        "location": "Room 939"
+    },
+    {
+        "store_id": 164,
+        "manager_name": "Anthea Staziker",
+        "location": "Suite 8"
+    },
+    {
+        "store_id": 165,
+        "manager_name": "Wenda Ber",
+        "location": "Apt 263"
+    },
+    {
+        "store_id": 166,
+        "manager_name": "Rose Shrieve",
+        "location": "Apt 521"
+    },
+    {
+        "store_id": 167,
+        "manager_name": "Giff Goodall",
+        "location": "Room 349"
+    },
+    {
+        "store_id": 168,
+        "manager_name": "Esdras Hendrichs",
+        "location": "Suite 4"
+    },
+    {
+        "store_id": 169,
+        "manager_name": "Oona Herrero",
+        "location": "15th Floor"
+    },
+    {
+        "store_id": 170,
+        "manager_name": "Damara Blunkett",
+        "location": "Suite 89"
+    },
+    {
+        "store_id": 171,
+        "manager_name": "Clay Rawlingson",
+        "location": "Apt 191"
+    },
+    {
+        "store_id": 172,
+        "manager_name": "Joanie Furmston",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 173,
+        "manager_name": "Electra Santarelli",
+        "location": "6th Floor"
+    },
+    {
+        "store_id": 174,
+        "manager_name": "Amalia Libbey",
+        "location": "11th Floor"
+    },
+    {
+        "store_id": 175,
+        "manager_name": "Emery Ripper",
+        "location": "8th Floor"
+    },
+    {
+        "store_id": 176,
+        "manager_name": "Greer Cossell",
+        "location": "16th Floor"
+    },
+    {
+        "store_id": 177,
+        "manager_name": "Celestyn Bauldry",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 178,
+        "manager_name": "Leland Liveing",
+        "location": "Room 1214"
+    },
+    {
+        "store_id": 179,
+        "manager_name": "Tedda Raulstone",
+        "location": "Room 1559"
+    },
+    {
+        "store_id": 180,
+        "manager_name": "Vladimir Kyndred",
+        "location": "Room 717"
+    },
+    {
+        "store_id": 181,
+        "manager_name": "Dillie Cutcliffe",
+        "location": "20th Floor"
+    },
+    {
+        "store_id": 182,
+        "manager_name": "Jeremiah Cassey",
+        "location": "Apt 1542"
+    },
+    {
+        "store_id": 183,
+        "manager_name": "Sapphire Sollner",
+        "location": "Suite 86"
+    },
+    {
+        "store_id": 184,
+        "manager_name": "Grantham Simukov",
+        "location": "PO Box 33372"
+    },
+    {
+        "store_id": 185,
+        "manager_name": "Baillie Kighly",
+        "location": "PO Box 24274"
+    },
+    {
+        "store_id": 186,
+        "manager_name": "Kariotta Foyston",
+        "location": "Suite 29"
+    },
+    {
+        "store_id": 187,
+        "manager_name": "Niko Catherick",
+        "location": "Apt 513"
+    },
+    {
+        "store_id": 188,
+        "manager_name": "Aeriell Putland",
+        "location": "Apt 1440"
+    },
+    {
+        "store_id": 189,
+        "manager_name": "Raimondo Lightbown",
+        "location": "Apt 1150"
+    },
+    {
+        "store_id": 190,
+        "manager_name": "Inigo Aleksandrev",
+        "location": "Suite 21"
+    },
+    {
+        "store_id": 191,
+        "manager_name": "Jamie Kennington",
+        "location": "PO Box 55751"
+    },
+    {
+        "store_id": 192,
+        "manager_name": "Ash Cushion",
+        "location": "Room 468"
+    },
+    {
+        "store_id": 193,
+        "manager_name": "Justus Fumagalli",
+        "location": "Room 897"
+    },
+    {
+        "store_id": 194,
+        "manager_name": "Emeline Brookton",
+        "location": "Suite 59"
+    },
+    {
+        "store_id": 195,
+        "manager_name": "Torry Janek",
+        "location": "Suite 4"
+    },
+    {
+        "store_id": 196,
+        "manager_name": "Thomasine Fennell",
+        "location": "Apt 1794"
+    },
+    {
+        "store_id": 197,
+        "manager_name": "Lise D' Angelo",
+        "location": "Suite 95"
+    },
+    {
+        "store_id": 198,
+        "manager_name": "Fredek Strother",
+        "location": "PO Box 95090"
+    },
+    {
+        "store_id": 199,
+        "manager_name": "Dan Ghidetti",
+        "location": "PO Box 33050"
+    },
+    {
+        "store_id": 200,
+        "manager_name": "Stefa Stivey",
+        "location": "10th Floor"
+    },
+    {
+        "store_id": 201,
+        "manager_name": "Linnet Timblett",
+        "location": "Apt 1573"
+    },
+    {
+        "store_id": 202,
+        "manager_name": "Alix Parramore",
+        "location": "PO Box 64385"
+    },
+    {
+        "store_id": 203,
+        "manager_name": "Neysa Swancock",
+        "location": "Room 652"
+    },
+    {
+        "store_id": 204,
+        "manager_name": "Doreen Dairton",
+        "location": "PO Box 94946"
+    },
+    {
+        "store_id": 205,
+        "manager_name": "Buiron Kroger",
+        "location": "Suite 71"
+    },
+    {
+        "store_id": 206,
+        "manager_name": "Nanny McQuarrie",
+        "location": "Room 778"
+    },
+    {
+        "store_id": 207,
+        "manager_name": "Jordan Cawsy",
+        "location": "Room 1595"
+    },
+    {
+        "store_id": 208,
+        "manager_name": "Eleonora Ambrosetti",
+        "location": "Room 1439"
+    },
+    {
+        "store_id": 209,
+        "manager_name": "Granny Kaminski",
+        "location": "Room 1714"
+    },
+    {
+        "store_id": 210,
+        "manager_name": "Nobe Huckett",
+        "location": "Apt 1675"
+    },
+    {
+        "store_id": 211,
+        "manager_name": "Fayette Faustin",
+        "location": "Room 1650"
+    },
+    {
+        "store_id": 212,
+        "manager_name": "Ruddie Wharby",
+        "location": "PO Box 8137"
+    },
+    {
+        "store_id": 213,
+        "manager_name": "Nanete MacGettigen",
+        "location": "9th Floor"
+    },
+    {
+        "store_id": 214,
+        "manager_name": "Yanaton Hayth",
+        "location": "15th Floor"
+    },
+    {
+        "store_id": 215,
+        "manager_name": "Rafe Kirman",
+        "location": "Suite 35"
+    },
+    {
+        "store_id": 216,
+        "manager_name": "Issy Vousden",
+        "location": "Apt 1240"
+    },
+    {
+        "store_id": 217,
+        "manager_name": "Muire Kerslake",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 218,
+        "manager_name": "Margie Slany",
+        "location": "Apt 818"
+    },
+    {
+        "store_id": 219,
+        "manager_name": "Aldridge Ruston",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 220,
+        "manager_name": "Colver Meredith",
+        "location": "Room 396"
+    },
+    {
+        "store_id": 221,
+        "manager_name": "Todd Bradforth",
+        "location": "Room 848"
+    },
+    {
+        "store_id": 222,
+        "manager_name": "Ronny Pohlak",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 223,
+        "manager_name": "Arne Fancett",
+        "location": "PO Box 51212"
+    },
+    {
+        "store_id": 224,
+        "manager_name": "Jeremie Nare",
+        "location": "Apt 423"
+    },
+    {
+        "store_id": 225,
+        "manager_name": "Wolfgang Pettifer",
+        "location": "PO Box 20811"
+    },
+    {
+        "store_id": 226,
+        "manager_name": "Shel Goncalo",
+        "location": "Suite 97"
+    },
+    {
+        "store_id": 227,
+        "manager_name": "Michal Gioan",
+        "location": "11th Floor"
+    },
+    {
+        "store_id": 228,
+        "manager_name": "Deva Kittless",
+        "location": "Apt 757"
+    },
+    {
+        "store_id": 229,
+        "manager_name": "Doria Govinlock",
+        "location": "Apt 142"
+    },
+    {
+        "store_id": 230,
+        "manager_name": "Skip Bakesef",
+        "location": "Apt 1651"
+    },
+    {
+        "store_id": 231,
+        "manager_name": "Abe Siward",
+        "location": "Apt 1012"
+    },
+    {
+        "store_id": 232,
+        "manager_name": "Gussi Bettenay",
+        "location": "Room 426"
+    },
+    {
+        "store_id": 233,
+        "manager_name": "Rollie Obern",
+        "location": "Suite 93"
+    },
+    {
+        "store_id": 234,
+        "manager_name": "Terese Wittering",
+        "location": "Room 1958"
+    },
+    {
+        "store_id": 235,
+        "manager_name": "Allys Sterrie",
+        "location": "Room 1776"
+    },
+    {
+        "store_id": 236,
+        "manager_name": "Grata Scimonelli",
+        "location": "Apt 608"
+    },
+    {
+        "store_id": 237,
+        "manager_name": "Sigfried Loncaster",
+        "location": "Suite 95"
+    },
+    {
+        "store_id": 238,
+        "manager_name": "Becky D'Orsay",
+        "location": "1st Floor"
+    },
+    {
+        "store_id": 239,
+        "manager_name": "Christine Deinhard",
+        "location": "Room 1533"
+    },
+    {
+        "store_id": 240,
+        "manager_name": "Anita Pessold",
+        "location": "Apt 329"
+    },
+    {
+        "store_id": 241,
+        "manager_name": "Mattie Goare",
+        "location": "Apt 1910"
+    },
+    {
+        "store_id": 242,
+        "manager_name": "Jilli Tomei",
+        "location": "16th Floor"
+    },
+    {
+        "store_id": 243,
+        "manager_name": "Debbie Lambot",
+        "location": "PO Box 66728"
+    },
+    {
+        "store_id": 244,
+        "manager_name": "Petronella Baudins",
+        "location": "1st Floor"
+    },
+    {
+        "store_id": 245,
+        "manager_name": "Alfonso Craise",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 246,
+        "manager_name": "Jocelyne Riply",
+        "location": "PO Box 25041"
+    },
+    {
+        "store_id": 247,
+        "manager_name": "Hynda Pavel",
+        "location": "Room 266"
+    },
+    {
+        "store_id": 248,
+        "manager_name": "Rosette Mabbot",
+        "location": "Apt 400"
+    },
+    {
+        "store_id": 249,
+        "manager_name": "Aloise Twining",
+        "location": "Room 667"
+    },
+    {
+        "store_id": 250,
+        "manager_name": "Garrot Gerrans",
+        "location": "Apt 1794"
+    },
+    {
+        "store_id": 251,
+        "manager_name": "Ernestine Dohmann",
+        "location": "PO Box 37234"
+    },
+    {
+        "store_id": 252,
+        "manager_name": "Cindy Kennally",
+        "location": "Room 1493"
+    },
+    {
+        "store_id": 253,
+        "manager_name": "Cyrill Matanin",
+        "location": "8th Floor"
+    },
+    {
+        "store_id": 254,
+        "manager_name": "Ernest Charrier",
+        "location": "Suite 28"
+    },
+    {
+        "store_id": 255,
+        "manager_name": "Padriac Goane",
+        "location": "Suite 54"
+    },
+    {
+        "store_id": 256,
+        "manager_name": "Teresina Tewkesbury.",
+        "location": "Room 512"
+    },
+    {
+        "store_id": 257,
+        "manager_name": "Berkeley Huggons",
+        "location": "Room 1712"
+    },
+    {
+        "store_id": 258,
+        "manager_name": "Korrie Norcross",
+        "location": "Suite 90"
+    },
+    {
+        "store_id": 259,
+        "manager_name": "Austin Couldwell",
+        "location": "8th Floor"
+    },
+    {
+        "store_id": 260,
+        "manager_name": "Sheilakathryn Peet",
+        "location": "Room 1141"
+    },
+    {
+        "store_id": 261,
+        "manager_name": "Emmi Demaine",
+        "location": "PO Box 11795"
+    },
+    {
+        "store_id": 262,
+        "manager_name": "Myer Wickmann",
+        "location": "Suite 43"
+    },
+    {
+        "store_id": 263,
+        "manager_name": "Baron Abbatucci",
+        "location": "18th Floor"
+    },
+    {
+        "store_id": 264,
+        "manager_name": "Jarib Ricards",
+        "location": "Suite 61"
+    },
+    {
+        "store_id": 265,
+        "manager_name": "Karola Loades",
+        "location": "11th Floor"
+    },
+    {
+        "store_id": 266,
+        "manager_name": "Rolland Calvard",
+        "location": "PO Box 46418"
+    },
+    {
+        "store_id": 267,
+        "manager_name": "Hogan Hasser",
+        "location": "10th Floor"
+    },
+    {
+        "store_id": 268,
+        "manager_name": "Karalee Rummer",
+        "location": "Apt 1451"
+    },
+    {
+        "store_id": 269,
+        "manager_name": "Gunther Ropartz",
+        "location": "Suite 35"
+    },
+    {
+        "store_id": 270,
+        "manager_name": "Carmelita Beekman",
+        "location": "Apt 753"
+    },
+    {
+        "store_id": 271,
+        "manager_name": "Clarette Duggen",
+        "location": "Room 1967"
+    },
+    {
+        "store_id": 272,
+        "manager_name": "Rabi Collete",
+        "location": "Room 420"
+    },
+    {
+        "store_id": 273,
+        "manager_name": "Electra Olexa",
+        "location": "PO Box 48485"
+    },
+    {
+        "store_id": 274,
+        "manager_name": "Vannie Dumingo",
+        "location": "Room 1056"
+    },
+    {
+        "store_id": 275,
+        "manager_name": "Mariam Matyushkin",
+        "location": "Apt 363"
+    },
+    {
+        "store_id": 276,
+        "manager_name": "Bartlet Markel",
+        "location": "11th Floor"
+    },
+    {
+        "store_id": 277,
+        "manager_name": "Edyth Marriott",
+        "location": "PO Box 7964"
+    },
+    {
+        "store_id": 278,
+        "manager_name": "Brenda Jelphs",
+        "location": "14th Floor"
+    },
+    {
+        "store_id": 279,
+        "manager_name": "Marsh Bettleson",
+        "location": "Apt 1111"
+    },
+    {
+        "store_id": 280,
+        "manager_name": "Felice Papes",
+        "location": "Room 789"
+    },
+    {
+        "store_id": 281,
+        "manager_name": "Ivett Iaduccelli",
+        "location": "PO Box 90115"
+    },
+    {
+        "store_id": 282,
+        "manager_name": "Isabelita Drance",
+        "location": "PO Box 60931"
+    },
+    {
+        "store_id": 283,
+        "manager_name": "Merrill Reijmers",
+        "location": "PO Box 56537"
+    },
+    {
+        "store_id": 284,
+        "manager_name": "Kale Bleddon",
+        "location": "Apt 821"
+    },
+    {
+        "store_id": 285,
+        "manager_name": "Patricia Hazeup",
+        "location": "Room 1371"
+    },
+    {
+        "store_id": 286,
+        "manager_name": "Theodora Beyn",
+        "location": "Suite 59"
+    },
+    {
+        "store_id": 287,
+        "manager_name": "Donnie Worley",
+        "location": "Room 1828"
+    },
+    {
+        "store_id": 288,
+        "manager_name": "Tim Creedland",
+        "location": "PO Box 73356"
+    },
+    {
+        "store_id": 289,
+        "manager_name": "Gerty Peverell",
+        "location": "Suite 7"
+    },
+    {
+        "store_id": 290,
+        "manager_name": "Claribel Aldgate",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 291,
+        "manager_name": "Carilyn Farrants",
+        "location": "Room 1029"
+    },
+    {
+        "store_id": 292,
+        "manager_name": "Bordy Dorcey",
+        "location": "Apt 304"
+    },
+    {
+        "store_id": 293,
+        "manager_name": "Betta Beneteau",
+        "location": "Apt 1076"
+    },
+    {
+        "store_id": 294,
+        "manager_name": "Theodor Steeples",
+        "location": "PO Box 37763"
+    },
+    {
+        "store_id": 295,
+        "manager_name": "Deana Goldhawk",
+        "location": "PO Box 61896"
+    },
+    {
+        "store_id": 296,
+        "manager_name": "Andra McLeese",
+        "location": "Room 1111"
+    },
+    {
+        "store_id": 297,
+        "manager_name": "Shell Humpherston",
+        "location": "Apt 652"
+    },
+    {
+        "store_id": 298,
+        "manager_name": "Lacey Dowden",
+        "location": "Apt 858"
+    },
+    {
+        "store_id": 299,
+        "manager_name": "Cam Hans",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 300,
+        "manager_name": "Priscella Paulat",
+        "location": "17th Floor"
+    },
+    {
+        "store_id": 301,
+        "manager_name": "Alex Partleton",
+        "location": "16th Floor"
+    },
+    {
+        "store_id": 302,
+        "manager_name": "Lucian Aronowicz",
+        "location": "15th Floor"
+    },
+    {
+        "store_id": 303,
+        "manager_name": "Georgie Ivanin",
+        "location": "Apt 1204"
+    },
+    {
+        "store_id": 304,
+        "manager_name": "Nikolai Powland",
+        "location": "Room 808"
+    },
+    {
+        "store_id": 305,
+        "manager_name": "Geneva Tieman",
+        "location": "15th Floor"
+    },
+    {
+        "store_id": 306,
+        "manager_name": "Cassaundra Soppett",
+        "location": "Suite 65"
+    },
+    {
+        "store_id": 307,
+        "manager_name": "Huntlee Bissett",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 308,
+        "manager_name": "Brandie Espley",
+        "location": "Apt 1891"
+    },
+    {
+        "store_id": 309,
+        "manager_name": "Hedi Skillanders",
+        "location": "Apt 354"
+    },
+    {
+        "store_id": 310,
+        "manager_name": "Mick Castles",
+        "location": "Room 555"
+    },
+    {
+        "store_id": 311,
+        "manager_name": "Rhoda Rannald",
+        "location": "Suite 78"
+    },
+    {
+        "store_id": 312,
+        "manager_name": "Rosene McGinly",
+        "location": "Room 155"
+    },
+    {
+        "store_id": 313,
+        "manager_name": "Nickie Bingall",
+        "location": "Suite 50"
+    },
+    {
+        "store_id": 314,
+        "manager_name": "Emelia Sapsforde",
+        "location": "Room 1463"
+    },
+    {
+        "store_id": 315,
+        "manager_name": "Germayne Hundey",
+        "location": "Room 70"
+    },
+    {
+        "store_id": 316,
+        "manager_name": "Cecily Gawen",
+        "location": "Apt 403"
+    },
+    {
+        "store_id": 317,
+        "manager_name": "Stephanus Ferneley",
+        "location": "15th Floor"
+    },
+    {
+        "store_id": 318,
+        "manager_name": "Russell Matherson",
+        "location": "Room 235"
+    },
+    {
+        "store_id": 319,
+        "manager_name": "Jaquith Larmor",
+        "location": "PO Box 37350"
+    },
+    {
+        "store_id": 320,
+        "manager_name": "Greta Munnis",
+        "location": "Room 138"
+    },
+    {
+        "store_id": 321,
+        "manager_name": "Andy Custard",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 322,
+        "manager_name": "Erica Stratford",
+        "location": "PO Box 13748"
+    },
+    {
+        "store_id": 323,
+        "manager_name": "Eleanor Stowell",
+        "location": "Suite 42"
+    },
+    {
+        "store_id": 324,
+        "manager_name": "Hyman Semrad",
+        "location": "Suite 12"
+    },
+    {
+        "store_id": 325,
+        "manager_name": "Francisca Howkins",
+        "location": "10th Floor"
+    },
+    {
+        "store_id": 326,
+        "manager_name": "Creigh Allington",
+        "location": "Room 212"
+    },
+    {
+        "store_id": 327,
+        "manager_name": "Hayes Mulrenan",
+        "location": "PO Box 77243"
+    },
+    {
+        "store_id": 328,
+        "manager_name": "Ichabod Virgin",
+        "location": "Room 9"
+    },
+    {
+        "store_id": 329,
+        "manager_name": "Teri Riddoch",
+        "location": "PO Box 40910"
+    },
+    {
+        "store_id": 330,
+        "manager_name": "Ibby Elderfield",
+        "location": "Apt 449"
+    },
+    {
+        "store_id": 331,
+        "manager_name": "Donna Denisard",
+        "location": "Room 1992"
+    },
+    {
+        "store_id": 332,
+        "manager_name": "Dredi Kosiada",
+        "location": "Room 1698"
+    },
+    {
+        "store_id": 333,
+        "manager_name": "Garland McErlaine",
+        "location": "Suite 61"
+    },
+    {
+        "store_id": 334,
+        "manager_name": "Ruddy Bolger",
+        "location": "Suite 76"
+    },
+    {
+        "store_id": 335,
+        "manager_name": "Delinda Charnock",
+        "location": "Apt 152"
+    },
+    {
+        "store_id": 336,
+        "manager_name": "Aileen Richley",
+        "location": "Room 699"
+    },
+    {
+        "store_id": 337,
+        "manager_name": "Hyacinthie Polendine",
+        "location": "Apt 4"
+    },
+    {
+        "store_id": 338,
+        "manager_name": "Boigie Davidovici",
+        "location": "Suite 46"
+    },
+    {
+        "store_id": 339,
+        "manager_name": "Fidelity Taleworth",
+        "location": "13th Floor"
+    },
+    {
+        "store_id": 340,
+        "manager_name": "Erika Kall",
+        "location": "Apt 1534"
+    },
+    {
+        "store_id": 341,
+        "manager_name": "Adair Knath",
+        "location": "Apt 1591"
+    },
+    {
+        "store_id": 342,
+        "manager_name": "Casi Figliovanni",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 343,
+        "manager_name": "Kerwin Cocker",
+        "location": "Apt 1713"
+    },
+    {
+        "store_id": 344,
+        "manager_name": "Halsey Jenkerson",
+        "location": "Room 822"
+    },
+    {
+        "store_id": 345,
+        "manager_name": "Jodee Negal",
+        "location": "PO Box 86255"
+    },
+    {
+        "store_id": 346,
+        "manager_name": "Caritta Passman",
+        "location": "Room 989"
+    },
+    {
+        "store_id": 347,
+        "manager_name": "Lazarus Salvin",
+        "location": "9th Floor"
+    },
+    {
+        "store_id": 348,
+        "manager_name": "Catlaina Richings",
+        "location": "Room 1558"
+    },
+    {
+        "store_id": 349,
+        "manager_name": "Fern Kinzett",
+        "location": "14th Floor"
+    },
+    {
+        "store_id": 350,
+        "manager_name": "Brittaney Coolahan",
+        "location": "Suite 24"
+    },
+    {
+        "store_id": 351,
+        "manager_name": "Danette Washington",
+        "location": "Suite 36"
+    },
+    {
+        "store_id": 352,
+        "manager_name": "Merrill Knight",
+        "location": "PO Box 56839"
+    },
+    {
+        "store_id": 353,
+        "manager_name": "Tyson Beaves",
+        "location": "Suite 20"
+    },
+    {
+        "store_id": 354,
+        "manager_name": "Morry Diffley",
+        "location": "PO Box 89772"
+    },
+    {
+        "store_id": 355,
+        "manager_name": "Albertine Plewman",
+        "location": "Apt 175"
+    },
+    {
+        "store_id": 356,
+        "manager_name": "Roldan Blakeney",
+        "location": "Suite 51"
+    },
+    {
+        "store_id": 357,
+        "manager_name": "Modesty Rowlings",
+        "location": "11th Floor"
+    },
+    {
+        "store_id": 358,
+        "manager_name": "Nealon Blankhorn",
+        "location": "PO Box 1839"
+    },
+    {
+        "store_id": 359,
+        "manager_name": "Wesley Harbage",
+        "location": "PO Box 13134"
+    },
+    {
+        "store_id": 360,
+        "manager_name": "Genni Nelissen",
+        "location": "PO Box 57272"
+    },
+    {
+        "store_id": 361,
+        "manager_name": "Ernestine Lowerson",
+        "location": "PO Box 59631"
+    },
+    {
+        "store_id": 362,
+        "manager_name": "Sasha Morl",
+        "location": "16th Floor"
+    },
+    {
+        "store_id": 363,
+        "manager_name": "Timothea Stockton",
+        "location": "Suite 83"
+    },
+    {
+        "store_id": 364,
+        "manager_name": "Benny Florentine",
+        "location": "Suite 6"
+    },
+    {
+        "store_id": 365,
+        "manager_name": "Elden Le Ball",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 366,
+        "manager_name": "Sansone Capun",
+        "location": "PO Box 7645"
+    },
+    {
+        "store_id": 367,
+        "manager_name": "Eleen Kingsnorth",
+        "location": "Suite 2"
+    },
+    {
+        "store_id": 368,
+        "manager_name": "Maxine Rosenfelt",
+        "location": "PO Box 59432"
+    },
+    {
+        "store_id": 369,
+        "manager_name": "Malachi Bartels-Ellis",
+        "location": "Room 1100"
+    },
+    {
+        "store_id": 370,
+        "manager_name": "Tiffi Grieveson",
+        "location": "PO Box 9834"
+    },
+    {
+        "store_id": 371,
+        "manager_name": "Hastie Antat",
+        "location": "PO Box 25689"
+    },
+    {
+        "store_id": 372,
+        "manager_name": "Tabbatha Gonzalo",
+        "location": "15th Floor"
+    },
+    {
+        "store_id": 373,
+        "manager_name": "Masha Torfin",
+        "location": "PO Box 38150"
+    },
+    {
+        "store_id": 374,
+        "manager_name": "Kelvin Fray",
+        "location": "Apt 600"
+    },
+    {
+        "store_id": 375,
+        "manager_name": "Moise Cona",
+        "location": "Room 716"
+    },
+    {
+        "store_id": 376,
+        "manager_name": "Vladamir Walliker",
+        "location": "Apt 1605"
+    },
+    {
+        "store_id": 377,
+        "manager_name": "Mel Johnson",
+        "location": "Suite 25"
+    },
+    {
+        "store_id": 378,
+        "manager_name": "Mareah Faull",
+        "location": "PO Box 7951"
+    },
+    {
+        "store_id": 379,
+        "manager_name": "Demetrius Cordeau]",
+        "location": "Apt 818"
+    },
+    {
+        "store_id": 380,
+        "manager_name": "Allin Dowdeswell",
+        "location": "PO Box 82119"
+    },
+    {
+        "store_id": 381,
+        "manager_name": "Fabio Fiddiman",
+        "location": "7th Floor"
+    },
+    {
+        "store_id": 382,
+        "manager_name": "Alick Seton",
+        "location": "13th Floor"
+    },
+    {
+        "store_id": 383,
+        "manager_name": "Israel Stennine",
+        "location": "Room 79"
+    },
+    {
+        "store_id": 384,
+        "manager_name": "Marguerite Keller",
+        "location": "Room 1745"
+    },
+    {
+        "store_id": 385,
+        "manager_name": "Roselia Roisen",
+        "location": "Apt 565"
+    },
+    {
+        "store_id": 386,
+        "manager_name": "Marris Mowle",
+        "location": "13th Floor"
+    },
+    {
+        "store_id": 387,
+        "manager_name": "Joelly Brocket",
+        "location": "Suite 26"
+    },
+    {
+        "store_id": 388,
+        "manager_name": "Corny Frear",
+        "location": "PO Box 29662"
+    },
+    {
+        "store_id": 389,
+        "manager_name": "Skippy Joisce",
+        "location": "19th Floor"
+    },
+    {
+        "store_id": 390,
+        "manager_name": "Palm Pitts",
+        "location": "PO Box 78373"
+    },
+    {
+        "store_id": 391,
+        "manager_name": "Joan Obell",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 392,
+        "manager_name": "Carmencita Muriel",
+        "location": "Room 1904"
+    },
+    {
+        "store_id": 393,
+        "manager_name": "Arin Noot",
+        "location": "PO Box 25860"
+    },
+    {
+        "store_id": 394,
+        "manager_name": "Blinnie Brevetor",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 395,
+        "manager_name": "Chrysa Skala",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 396,
+        "manager_name": "Carolyn Jedrzejewicz",
+        "location": "Apt 8"
+    },
+    {
+        "store_id": 397,
+        "manager_name": "Meggy Newstead",
+        "location": "Room 1955"
+    },
+    {
+        "store_id": 398,
+        "manager_name": "Mela Carragher",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 399,
+        "manager_name": "Emera Hirsthouse",
+        "location": "PO Box 441"
+    },
+    {
+        "store_id": 400,
+        "manager_name": "Gaye Rowbotham",
+        "location": "Suite 53"
+    },
+    {
+        "store_id": 401,
+        "manager_name": "Carolynn Traut",
+        "location": "6th Floor"
+    },
+    {
+        "store_id": 402,
+        "manager_name": "Raymund Bursnell",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 403,
+        "manager_name": "Marie-ann Dusey",
+        "location": "Suite 28"
+    },
+    {
+        "store_id": 404,
+        "manager_name": "Adam Grimster",
+        "location": "Apt 561"
+    },
+    {
+        "store_id": 405,
+        "manager_name": "Raye Holby",
+        "location": "18th Floor"
+    },
+    {
+        "store_id": 406,
+        "manager_name": "Phebe Crannell",
+        "location": "Room 1707"
+    },
+    {
+        "store_id": 407,
+        "manager_name": "Flint Pasquale",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 408,
+        "manager_name": "Pinchas McGourty",
+        "location": "Apt 26"
+    },
+    {
+        "store_id": 409,
+        "manager_name": "Isador Casaroli",
+        "location": "20th Floor"
+    },
+    {
+        "store_id": 410,
+        "manager_name": "Deonne Cuddon",
+        "location": "PO Box 92049"
+    },
+    {
+        "store_id": 411,
+        "manager_name": "Timi Doers",
+        "location": "PO Box 39437"
+    },
+    {
+        "store_id": 412,
+        "manager_name": "Merv Corneljes",
+        "location": "PO Box 98850"
+    },
+    {
+        "store_id": 413,
+        "manager_name": "Hamid Aisbett",
+        "location": "1st Floor"
+    },
+    {
+        "store_id": 414,
+        "manager_name": "Rickie Hodcroft",
+        "location": "6th Floor"
+    },
+    {
+        "store_id": 415,
+        "manager_name": "Lockwood Santori",
+        "location": "PO Box 20620"
+    },
+    {
+        "store_id": 416,
+        "manager_name": "Giustina Punch",
+        "location": "PO Box 24387"
+    },
+    {
+        "store_id": 417,
+        "manager_name": "Jen Jeffery",
+        "location": "Apt 1176"
+    },
+    {
+        "store_id": 418,
+        "manager_name": "Thorsten Slessor",
+        "location": "Room 1238"
+    },
+    {
+        "store_id": 419,
+        "manager_name": "Tanya Belliss",
+        "location": "Apt 124"
+    },
+    {
+        "store_id": 420,
+        "manager_name": "Celie Novotne",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 421,
+        "manager_name": "Dore Thoma",
+        "location": "Room 1068"
+    },
+    {
+        "store_id": 422,
+        "manager_name": "Dorree Raeburn",
+        "location": "Suite 6"
+    },
+    {
+        "store_id": 423,
+        "manager_name": "Sayres Wheadon",
+        "location": "Apt 1001"
+    },
+    {
+        "store_id": 424,
+        "manager_name": "Templeton Batten",
+        "location": "PO Box 52281"
+    },
+    {
+        "store_id": 425,
+        "manager_name": "Riobard Spriggs",
+        "location": "Suite 93"
+    },
+    {
+        "store_id": 426,
+        "manager_name": "Justus Henze",
+        "location": "Room 1215"
+    },
+    {
+        "store_id": 427,
+        "manager_name": "Chick Pavis",
+        "location": "Apt 728"
+    },
+    {
+        "store_id": 428,
+        "manager_name": "Melisse Weatherup",
+        "location": "Room 1968"
+    },
+    {
+        "store_id": 429,
+        "manager_name": "Loydie Powlesland",
+        "location": "PO Box 46842"
+    },
+    {
+        "store_id": 430,
+        "manager_name": "Kirstyn O'dell",
+        "location": "Suite 10"
+    },
+    {
+        "store_id": 431,
+        "manager_name": "Jonas MacPaden",
+        "location": "PO Box 84375"
+    },
+    {
+        "store_id": 432,
+        "manager_name": "Daffie Hathwood",
+        "location": "Apt 823"
+    },
+    {
+        "store_id": 433,
+        "manager_name": "Candis Jolliffe",
+        "location": "3rd Floor"
+    },
+    {
+        "store_id": 434,
+        "manager_name": "Jessie Kitteringham",
+        "location": "Room 1264"
+    },
+    {
+        "store_id": 435,
+        "manager_name": "Marya Houlworth",
+        "location": "Room 1582"
+    },
+    {
+        "store_id": 436,
+        "manager_name": "Laurella Kirke",
+        "location": "Room 435"
+    },
+    {
+        "store_id": 437,
+        "manager_name": "Livia Louca",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 438,
+        "manager_name": "Dareen Proud",
+        "location": "Room 1614"
+    },
+    {
+        "store_id": 439,
+        "manager_name": "Kenny Sabine",
+        "location": "Suite 96"
+    },
+    {
+        "store_id": 440,
+        "manager_name": "Whit Coppen",
+        "location": "7th Floor"
+    },
+    {
+        "store_id": 441,
+        "manager_name": "Sofia Andrews",
+        "location": "PO Box 67648"
+    },
+    {
+        "store_id": 442,
+        "manager_name": "Darius Cousins",
+        "location": "Apt 1941"
+    },
+    {
+        "store_id": 443,
+        "manager_name": "Anica Blabie",
+        "location": "Room 662"
+    },
+    {
+        "store_id": 444,
+        "manager_name": "Bjorn Btham",
+        "location": "Apt 1921"
+    },
+    {
+        "store_id": 445,
+        "manager_name": "Baxy Mougel",
+        "location": "Room 328"
+    },
+    {
+        "store_id": 446,
+        "manager_name": "Garrick Semerad",
+        "location": "Apt 1951"
+    },
+    {
+        "store_id": 447,
+        "manager_name": "Ric Henric",
+        "location": "Suite 63"
+    },
+    {
+        "store_id": 448,
+        "manager_name": "Dahlia Snoxall",
+        "location": "PO Box 5961"
+    },
+    {
+        "store_id": 449,
+        "manager_name": "Aliza Birnie",
+        "location": "Suite 35"
+    },
+    {
+        "store_id": 450,
+        "manager_name": "Josselyn Mozzini",
+        "location": "PO Box 80846"
+    },
+    {
+        "store_id": 451,
+        "manager_name": "Sindee Mandrey",
+        "location": "PO Box 88476"
+    },
+    {
+        "store_id": 452,
+        "manager_name": "Joyous Nolda",
+        "location": "PO Box 96173"
+    },
+    {
+        "store_id": 453,
+        "manager_name": "Shirley Lipprose",
+        "location": "PO Box 63622"
+    },
+    {
+        "store_id": 454,
+        "manager_name": "Melisent Reggio",
+        "location": "Suite 2"
+    },
+    {
+        "store_id": 455,
+        "manager_name": "Kimberlyn Lysaght",
+        "location": "Suite 30"
+    },
+    {
+        "store_id": 456,
+        "manager_name": "Adey Bonfield",
+        "location": "Suite 23"
+    },
+    {
+        "store_id": 457,
+        "manager_name": "Maritsa Streader",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 458,
+        "manager_name": "Lilah Cubberley",
+        "location": "PO Box 32539"
+    },
+    {
+        "store_id": 459,
+        "manager_name": "Wallie Archibould",
+        "location": "Room 1323"
+    },
+    {
+        "store_id": 460,
+        "manager_name": "Bran Matessian",
+        "location": "Suite 84"
+    },
+    {
+        "store_id": 461,
+        "manager_name": "Kelci Skae",
+        "location": "Suite 28"
+    },
+    {
+        "store_id": 462,
+        "manager_name": "Sylvia Fierro",
+        "location": "Room 1283"
+    },
+    {
+        "store_id": 463,
+        "manager_name": "Ive MacIlhagga",
+        "location": "Apt 234"
+    },
+    {
+        "store_id": 464,
+        "manager_name": "Nickolas Jiracek",
+        "location": "PO Box 13532"
+    },
+    {
+        "store_id": 465,
+        "manager_name": "Amabelle Matusson",
+        "location": "PO Box 97083"
+    },
+    {
+        "store_id": 466,
+        "manager_name": "Nana Caldeyroux",
+        "location": "PO Box 61915"
+    },
+    {
+        "store_id": 467,
+        "manager_name": "Yves Broschke",
+        "location": "Apt 438"
+    },
+    {
+        "store_id": 468,
+        "manager_name": "Hilary Drinnan",
+        "location": "Apt 1394"
+    },
+    {
+        "store_id": 469,
+        "manager_name": "Hagan Grestye",
+        "location": "PO Box 41372"
+    },
+    {
+        "store_id": 470,
+        "manager_name": "Coralie Khalid",
+        "location": "14th Floor"
+    },
+    {
+        "store_id": 471,
+        "manager_name": "Glenda Stockoe",
+        "location": "Suite 88"
+    },
+    {
+        "store_id": 472,
+        "manager_name": "Fulton Devas",
+        "location": "PO Box 91834"
+    },
+    {
+        "store_id": 473,
+        "manager_name": "Andree Orteaux",
+        "location": "4th Floor"
+    },
+    {
+        "store_id": 474,
+        "manager_name": "Lamar Zecchinelli",
+        "location": "PO Box 66720"
+    },
+    {
+        "store_id": 475,
+        "manager_name": "Brock Quantrell",
+        "location": "Room 561"
+    },
+    {
+        "store_id": 476,
+        "manager_name": "Brandy Passey",
+        "location": "Room 17"
+    },
+    {
+        "store_id": 477,
+        "manager_name": "Chevy Hubberstey",
+        "location": "Room 1788"
+    },
+    {
+        "store_id": 478,
+        "manager_name": "Binni McLaren",
+        "location": "Room 1093"
+    },
+    {
+        "store_id": 479,
+        "manager_name": "Elka Janowicz",
+        "location": "20th Floor"
+    },
+    {
+        "store_id": 480,
+        "manager_name": "Waldemar Woolmer",
+        "location": "Room 408"
+    },
+    {
+        "store_id": 481,
+        "manager_name": "Morgun Veljes",
+        "location": "Room 1636"
+    },
+    {
+        "store_id": 482,
+        "manager_name": "Garvy Burborough",
+        "location": "11th Floor"
+    },
+    {
+        "store_id": 483,
+        "manager_name": "Valene Guinane",
+        "location": "Room 1797"
+    },
+    {
+        "store_id": 484,
+        "manager_name": "Stefanie Hullyer",
+        "location": "Suite 56"
+    },
+    {
+        "store_id": 485,
+        "manager_name": "Abagael Pischoff",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 486,
+        "manager_name": "Tedd Daulby",
+        "location": "Room 1127"
+    },
+    {
+        "store_id": 487,
+        "manager_name": "Claudianus Gratrix",
+        "location": "13th Floor"
+    },
+    {
+        "store_id": 488,
+        "manager_name": "Anastasie Umpleby",
+        "location": "Apt 706"
+    },
+    {
+        "store_id": 489,
+        "manager_name": "Garnet Yurenin",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 490,
+        "manager_name": "Seka Lynock",
+        "location": "5th Floor"
+    },
+    {
+        "store_id": 491,
+        "manager_name": "Darcy Futty",
+        "location": "Suite 88"
+    },
+    {
+        "store_id": 492,
+        "manager_name": "Dodie Lacotte",
+        "location": "PO Box 86610"
+    },
+    {
+        "store_id": 493,
+        "manager_name": "Torry Leadbeater",
+        "location": "Apt 364"
+    },
+    {
+        "store_id": 494,
+        "manager_name": "Falkner Slogrove",
+        "location": "Apt 162"
+    },
+    {
+        "store_id": 495,
+        "manager_name": "Liam Alenshev",
+        "location": "9th Floor"
+    },
+    {
+        "store_id": 496,
+        "manager_name": "Laureen Cornils",
+        "location": "Suite 6"
+    },
+    {
+        "store_id": 497,
+        "manager_name": "Duane Bailey",
+        "location": "PO Box 69227"
+    },
+    {
+        "store_id": 498,
+        "manager_name": "Stearn Bisgrove",
+        "location": "Apt 577"
+    },
+    {
+        "store_id": 499,
+        "manager_name": "Suzanna Powderham",
+        "location": "Room 975"
+    },
+    {
+        "store_id": 500,
+        "manager_name": "Sarah Lewin",
+        "location": "Suite 75"
+    }
+]
